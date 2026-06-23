@@ -1,0 +1,1 @@
+Completing the "Getting Started" module in Terraform for Azure.
